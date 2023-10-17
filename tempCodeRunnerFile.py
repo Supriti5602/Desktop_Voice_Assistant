@@ -1,0 +1,1 @@
+if "openai".lower() in query.lower():
